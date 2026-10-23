@@ -1,0 +1,121 @@
+.img{
+    width: 200px;
+    border-radius: 50%;
+    border: 4px solid white;
+}
+
+#header{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bday-age {
+    color: black;
+    background-color: aquamarine;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+#bday-age:hover {
+    color: azure;
+}
+#bday-date:hover {
+    color: azure;
+}
+#bday-date{
+    color: black;
+    background-color: aquamarine;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+h1, #bday-date, #bday-age, p {
+    text-shadow: 0px 0px 0px white;
+}
+
+
+
+#img-two{
+    width: 400px;
+    height: 400px;
+    border: 4px solid white;
+    border-radius: 6px;
+    background-image: url("/images/3d/kingsley-mkpandiok-kCdGHZshvdw-unsplash.jpg");
+    background-size: cover;
+    margin: 0px auto;
+}
+#img-two:hover{
+    background-image: url("Eye\ Swimming\ GIF\ by\ ESAHubble\ Space\ Telescope.gif");
+}
+
+#img-three{
+    width: 400px;
+    height: 400px;
+    border: 4px solid white;
+    border-radius: 6px;
+    background-image: url("/images/3d/pebri-ramadhan-mas-i5Xv5nMzCec-unsplash.jpg");
+    background-size: cover;
+    margin: 0px auto;
+}
+#img-three:hover{
+    background-image: url("Eye\ Swimming\ GIF\ by\ ESAHubble\ Space\ Telescope.gif");
+}
+#img-four{
+    width: 400px;
+    height: 400px;
+    border: 4px solid white;
+    border-radius: 6px;
+    background-image: url("/images/3d/esma-melike-sezer-TF8mjwawdUI-unsplash.jpg");
+    background-size: cover;
+    margin: 0px auto;
+}
+#img-four:hover{
+    background-image: url("Eye\ Swimming\ GIF\ by\ ESAHubble\ Space\ Telescope.gif");
+}
+#img-five{
+    width: 400px;
+    height: 400px;
+    border: 4px solid white;
+    border-radius: 6px;
+    background-image: url("/images/3d/brecht-corbeel-_HKHcMPqEiE-unsplash.jpg");
+    background-size: cover;
+    margin: 0px auto;
+}
+#img-five:hover{
+    background-image: url("Eye\ Swimming\ GIF\ by\ ESAHubble\ Space\ Telescope.gif");
+}
+
+#img-six{
+    width: 400px;
+    height: 200px;
+    border: 4px solid white;
+    border-radius: 6px;
+    background-image: url("/images/3d/firli-s-toycjFKPcxg-unsplash.jpg");
+    background-size: cover;
+    margin: 0px auto;
+}
+#img-six:hover{
+    background-image: url("Eye\ Swimming\ GIF\ by\ ESAHubble\ Space\ Telescope.gif");
+}
+
+#gif-one{
+    margin-top: 150px;
+}
+#footer{
+    font-style: italic;
+    width: 300px;
+    margin: 40px auto 20px;
+}
+a {
+    color: white;
+}
+
+
+body{
+    background: linear-gradient(black, rgb(34, 129, 97));
+    font-family: "Roboto Slab", serif;
+    color: aquamarine;
+    text-align: center;
+}
